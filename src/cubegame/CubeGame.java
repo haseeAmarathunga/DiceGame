@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author ClashHacker
+ * @author Hasee Amarathunga
  */
 public class CubeGame extends javax.swing.JFrame {
 
